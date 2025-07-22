@@ -1,8 +1,5 @@
 # Touka IP Filter Middleware
 
-[![Go Version](https://img.shields.io/badge/go-1.18+-blue.svg)](https://golang.org)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 一个为 [Touka](https://github.com/infinite-iroha/touka) 框架设计的简单、高效且安全的 IP 地址过滤中间件.
 
 ## 特性
@@ -16,7 +13,7 @@
 ## 安装
 
 ```bash
-go get github.com/your-repo/path/ipfilter
+go get github.com/fenthope/ipfilter
 ```
 
 ## 快速上手
